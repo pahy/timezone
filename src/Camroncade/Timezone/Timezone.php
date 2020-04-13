@@ -49,7 +49,7 @@ class Timezone {
 	    '(UTC+01:00) Amsterdam' => 'Europe/Amsterdam',
 	    '(UTC+01:00) Belgrade' => 'Europe/Belgrade',
 	    '(UTC+01:00) Berlin' => 'Europe/Berlin',
-	    '(UTC+01:00) Bern' => 'Europe/Berlin',
+	    '(UTC+01:00) Bern' => 'Europe/Bern',
 	    '(UTC+01:00) Bratislava' => 'Europe/Bratislava',
 	    '(UTC+01:00) Brussels' => 'Europe/Brussels',
 	    '(UTC+01:00) Budapest' => 'Europe/Budapest',
